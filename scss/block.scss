@@ -7,15 +7,29 @@ $side_width: $block_width + $side_offset;
 $common_width: $block_width * 0.179;
 $stairs_width: $block_width * 0.1;
 
+body{
+  background: #3d0;
+}
+ *{
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+ }
+
+
 #block{
-  display: flex;
-  width: 100vw;
-  height: 100vh;
+  //display: flex;
+  //width: 100vw;
+  //height: 100vh;
 }
 
 
 .block-floor{
-  border:1px solid black;
+  transform: perspective(50vw) rotateX(45deg);
+
+  margin-top:-20vw;
+
+  border:2px solid black;
   margin: auto;
   width: $block_width;
   height: $block_height;
@@ -24,110 +38,95 @@ $stairs_width: $block_width * 0.1;
   flex-direction: column;
   justify-content: space-between;
 
-  background: grey;
+  background: #ccc;
 }
 
 
 .block-side{
+  display: flex;
+  position:relative;
   width: $side_width;
   height: $room_height;
-  background: white;
 
-  display: flex;
+
+  //display: flex;
   flex-direction: row;
 
   &.block-east{
+    margin: -2px -2px 0 -2px;
+
+    .block-stairs{
+      border-top: 2px solid black;
+      border-bottom: 1px solid black;
+    }
+
+
+
+    .block-room{
+      border-top: 2px solid black;
+      border-bottom: 1px solid black;
+    }
+
   }
 
   &.block-west{
-    flex-direction: row-reverse;
-    margin-left: -$side_offset;
+    margin: 0 -2px -2px calc(-2px - #{$side_offset});
+
+    .block-stairs{
+      align-self: flex-end;
+      border-top: 1px solid black;
+      border-bottom: 2px solid black;
+    }
+
+    .block-room{
+      border-top: 1px solid black;
+      border-bottom: 2px solid black;
+    }
   }
 }
+
 
 .block-common{
   width: $common_width;
   height: 100%;
-  background: pink;
+  background: white;
+  border:2px solid black;
 }
 
 .block-stairs{
   width: $stairs_width;
-  height: 100%;
-  background: lime;
+  height: 60%;
 }
 
-
+.block-rooms{
+  flex:1;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+}
 .block-room{
   flex:1;
   position: relative;
   width: auto;
-  background: yellow;
-  border: 1px solid black;
+  background-color: #fff;
+
   height: 100%;
 
   &:nth-child(odd){
-    .block-cupboard{
-      right: 0;
-    }
-
-    .block-door{
-      right: 19%;
-
-      &:after{
-        left: -100%;
-      }
-    }
-
-
+    border-left: 1px solid black;
   }
 
   &:nth-child(even){
-    .block-cupboard{
-      left: 0;
-    }
-
-    .block-door{
-      left: 19%;
-
-      &:after{
-        left: 100%;
-      }
-    }
+    border-left: 1px solid black;
+    border-right: 1px solid black;
   }
 
-  .block-cupboard{
-    width: 19%;
-    height: 20%;
-
-    position: absolute;
-    bottom: 0;
-
-
-    background: blue;
-
+  &:first-child{
+    border-left: 2px solid black;
   }
 
-  .block-door{
-    position: absolute;
-    bottom: 0%;
-
-    background: red;
-    width: 30%;
-    height: 0;
-    padding-bottom: 30%;
-    margin-bottom: -30%;
-
-    &:after{
-      content: "";
-      background: green;
-      width: 100%;
-      height: 100%;
-      position: absolute;
-      top: 0;
-    }
+  &:last-child{
+    border-right: 2px solid black;
   }
+
 }
-
-
-
