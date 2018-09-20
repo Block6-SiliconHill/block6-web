@@ -8,8 +8,8 @@
 
 
     <div id="block">
-        <?php for ($floor = 5; $floor >= 0; $floor--): ?>
-            <div class="block-floor block-floor-<?php echo $floor; ?>" data-floor="<?php echo $floor; ?>">
+        <?php for ($floor = 0; $floor <= 5; $floor++): ?>
+            <div class="block-floor" data-floor="<?php echo $floor; ?>">
                 <div class="block-side block-east">
                     <div class="block-rooms">
                         <?php for ($room = 19; $room >= 1; $room--): ?>

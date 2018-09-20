@@ -34,9 +34,9 @@ body{
 
 #block{
 
-  margin-top: 20vw;
+  margin-top: 50vw;
   border:1px solid black;
-  position: relative;
+
 
   padding-bottom: 12vw;
   //display: flex;
@@ -47,9 +47,9 @@ body{
 
 .block-floor{
   transform: perspective(50vw) rotateX(45deg);
-  position: relative;
 
-  margin: -16vw auto 0 auto;
+  margin: 0 auto;
+  margin-top:-22vw;
 
   border:2px solid black;
 
@@ -62,44 +62,12 @@ body{
 
   background: #ccc;
 
-  &:first-child{
-    margin-top: 0;
 
-
+  &.shift-top{
+    margin-top:calc(-22vw - 20vw);
   }
 
 
-  &.top{
-    margin-top: -20vw;
-  }
-
-  &.bottom{
-    margin-top: 4vw;
-  }
-}
-
-.block-floor-5{
-  z-index: 1005;
-}
-
-.block-floor-4{
-  z-index: 1004;
-}
-
-.block-floor-3{
-  z-index: 1003;
-}
-
-.block-floor-2{
-  z-index: 1002;
-}
-
-.block-floor-1{
-  z-index: 1001;
-}
-
-.block-floor-0{
-  z-index: 1000;
 }
 
 
