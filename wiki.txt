@@ -1,0 +1,405 @@
+[[Soubor:Blok6model.jpg|right|frameless|caption]]
+[[Block_6 | ENGLISH VERSION]]
+
+=== '''Blokové FAQ''' ===
+Urèitì si pøeètìte odpovìdi na typické otázky. Ušetøíme si tím hromadu èasu. Více na [[KOLEJ:Bloky:Blok_6:Faq]] nebo se <b>ptejte na FB skupinì [https://www.facebook.com/groups/206949506004369/ Bloku 6]</b>
+
+== '''Aktuality''' ==
+
+<table  >
+<tr><td>
+
+* Nejaktuálnìjší informace najdete ve FB skupinì [https://www.facebook.com/groups/206949506004369/ FB skupinì]
+
+</td>
+</tr>
+
+</table>
+
+== '''Aktivní lidé na bloku a kontakty''' ==
+
+Registrátoøi a síovı admin: [mailto:admin6@sh.cvut.cz admin6@sh.cvut.cz]<br>
+Pokud nastane neøešitelnı problém, nebojte se kontaktovat [mailto:m.sidlovsky@sh.cvut.cz zástupce bloku].
+
+        <table bgcolor="#FFF5CF" style="float:left; margin-right:10px;">
+            <tr bgcolor="#F0C76D">
+                <td>'''Pozice'''</td>
+                <td>'''Jméno a pøíjmení'''</td>
+                <td>'''Pokoj'''</td>
+                <td>'''E-mail'''</td>
+
+             </tr>
+<tr><td>'''Administrátor'''</td><td>Tibor Tribus</td><td>336</td><td>[mailto:t.tribus@sh.cvut.cz t.tribus@sh.cvut.cz]</td></tr>
+            <tr><td>'''Registrátoøi'''</td><td>Jakub Kameniar</td><td>240</td><td>[mailto:j.kameniar@sh.cvut.cz j.kameniar@sh.cvut.cz]</td></tr>
+            <tr><td>&nbsp;</td><td>Michal Bambuch</td><td>314</td><td>[mailto:m.bambuch@sh.cvut.cz m.bambuch@sh.cvut.cz]</td></tr>
+            <tr><td>&nbsp;</td><td>Juraj Hrenák</td><td>329</td><td>[mailto:j.hrenak@sh.cvut.cz j.hrenak@sh.cvut.cz]</td></tr>
+            <tr><td>&nbsp;</td><td>Slavomír Koár</td><td>330</td><td>[mailto:s.kozar@sh.cvut.cz s.kozar@sh.cvut.cz]</td></tr>
+            <tr><td>&nbsp;</td><td>Tibor Tribus</td><td>336</td><td>[mailto:t.tribus@sh.cvut.cz t.tribus@sh.cvut.cz]</td></tr>
+            <tr><td>&nbsp;</td><td>Natálie Gabrielová</td><td>341</td><td>[mailto:n.gabrielova@sh.cvut.cz n.gabrielova@sh.cvut.cz]</td></tr>
+            <tr><td>&nbsp;</td><td>Vojtìch Dušátko</td><td>401</td><td>[mailto:v.dusatko@sh.cvut.cz v.dusatko@sh.cvut.cz]</td></tr>
+            <tr><td>&nbsp;</td><td>Tomáš Suchomel</td><td>436</td><td>[mailto:t.suchomel@sh.cvut.cz t.suchomel@sh.cvut.cz]</td></tr>
+            <tr><td>&nbsp;</td><td>Tomáš Kasl</td><td>442</td><td>[mailto:t.kasl@sh.cvut.cz t.kasl@sh.cvut.cz]</td></tr>
+        </table>
+
+<table bgcolor="#FFF5CF" style="float:left; margin-right:10px;">
+            <tr bgcolor="#F0C76D">
+                <td>'''Pozice'''</td>
+                <td>'''Jméno a pøíjmení'''</td>
+                <td>'''Pokoj'''</td>
+                <td>'''E-mail'''</td>
+            </tr>
+            
+            <tr><td>'''Zástupce bloku'''</td><td>Marko Šidlovskı</td><td>332</td><td>[mailto:m.sidlovsky@sh.cvut.cz m.sidlovsky@sh.cvut.cz]</td></tr>
+
+            <tr><td>'''Manager místností'''</td><td>Slavomír Koár</td><td>330</td><td>[mailto:s.kozar@sh.cvut.cz s.kozar@sh.cvut.cz]</td></tr>
+            <tr><td>'''Správce herny'''</td><td>Ondøej Skoøepa</td><td>302</td><td>[mailto:o.skorepa@sh.cvut.cz o.skorepa@sh.cvut.cz]</td></tr>
+            <tr><td>'''Správce kolárny'''</td><td>Alena Sedláèková</td><td>340</td><td>[mailto:a.sedlackova@sh.cvut.cz a.sedlackova@sh.cvut.cz]</td> </tr>
+            <tr><td>&nbsp;</td><td>Martin Korèák</td><td>303</td><td>[mailto:m.korcak@sh.cvut.cz m.korcak@sh.cvut.cz]</td></tr>      
+            <tr><td>'''Správce malé posilovny'''</td><td>Martin Urban</td><td>316</td><td>[mailto:m.urban@sh.cvut.cz m.urban@sh.cvut.cz]</td></tr>     
+           <tr><td>'''Správce pùjèovny'''</td><td>Karel Peclinovskı</td><td>34</td><td>[mailto:k.peclinovsky@sh.cvut.cz k.peclinovsky@sh.cvut.cz]</td></tr>
+            <tr><td>&nbsp;</td><td>Radovan Juráš</td><td> 324</td><td>[mailto:r.juras@sh.cvut.cz r.juras@sh.cvut.cz]</td></tr> 
+            <tr><td>&nbsp;</td><td>Jakub Kameniar</td><td>240</td><td>[mailto:j.kameniar@sh.cvut.cz j.kameniar@sh.cvut.cz]</td></tr> 
+            <tr><td>&nbsp;</td><td>Martin Holec</td><td>501</td><td>[mailto:majzlik@sh.cvut.cz majzlik@sh.cvut.cz]</td></tr> 
+            <tr><td>&nbsp;</td><td>Slavomír Koár</td><td>330</td><td>[mailto:s.kozar@sh.cvut.cz s.kozar@sh.cvut.cz]</td></tr> 
+            <tr><td>&nbsp;</td><td>Lenka Farkotová</td><td>340</td><td>[mailto:l.farkotova@sh.cvut.cz l.farkotova@sh.cvut.cz]</td></tr> 
+            <tr><td>&nbsp;</td><td>Tomáš Vencovskı</td><td>316</td><td>[mailto:t.vencovsky@sh.cvut.cz t.vencovsky@sh.cvut.cz]</td></tr> 
+            <tr><td>'''Správce SHerny'''</td><td>Slavomír Koár</td><td>330</td><td>[mailto:s.kozar@sh.cvut.cz s.kozar@sh.cvut.cz]</td></tr>
+            <tr><td>'''Správce Modellandu'''</td><td>Simona Strádalová</td><td>338</td><td>[mailto:s.stradalova@sh.cvut.cz s.stradalova@sh.cvut.cz]</td></tr>
+            <tr><td>'''Správce prádelny'''</td><td>Barbora Markovova</td><td>330</td><td>[mailto:b.markovova@sh.cvut.cz b.markovova@sh.cvut.cz]</td></tr>
+            <tr><td>'''Grafik'''</td><td>Marcel ec</td><td>431</td><td>[mailto:m.zec@sh.cvut.cz m.zec@sh.cvut.cz]</td></tr>
+            <tr><td>'''Organizátor'''</td><td>Natálie Gabrielová</td><td>341</td><td>[mailto:n.gabrielova@sh.cvut.cz n.gabrielova@sh.cvut.cz]</td> </tr>
+            <tr><td>&nbsp;</td><td>Sandra Hamráková</td><td>341</td><td>[mailto:s.hamrakova@sh.cvut.cz s.hamrakova@sh.cvut.cz]</td></tr>    
+
+       
+ </table>
+       <table bgcolor="#FFF5CF" style="margin-right:10px;">
+            <tr bgcolor="#F0C76D">
+                <td>'''Hospodáøka'''</td><td></td><td></td>
+
+            </tr>
+            <tr bgcolor="#FDD455"><td>'''1.-15. den v mìsíci'''</td><td></td><td></td></tr>
+            <tr><td>pondìlí - ètvrtek</td><td>8:00-11:00</td><td>12:00-14:00</td></tr>
+            <tr><td>pátek</td><td>8:00-11:00</td><td></td></tr>
+            <tr bgcolor="#FDD455"><td>'''po 15. dni v mìsíci'''</td><td></td><td></td></tr>
+            <tr><td>pondìlí - ètvrtek</td><td>8:00-10:00</td><td>12:00-13:00</td></tr>
+            <tr><td>pátek</td><td>8:00-10:00</td><td></td></tr>
+            <tr bgcolor="#FDD455"><td>'''Kontakt'''</td><td></td><td></td></tr>
+            <tr><td>Jitka Zátková</td><td>136</td><td>[mailto:jitka.zatkova@cvut.cz jitka.zatkova@cvut.cz]</td></tr>
+</table>
+
+<div style="clear:both;"></div>
+
+== '''Dùleité odkazy, ubytovací øád a informace'''==
+
+'''Závady, které zpùsobíte nebo objevíte''', nahlaste na [https://www.suz.cvut.cz/zavady závadovı systém]. Èím døíve je závada ohlášena, tím døíve mùe bıt opravena (obvykle do 2 dnù).
+
+   '''Kouøení ve veøejnıch prostorách''', '''rušení noèního klidu''', apod. je pøímım porušením domovního øádu, které mùe vést k udìlení banu za základní èlenství v klubu SH nebo v krajním pøípadì ukonèením ubytovací smlouvy.<br>
+   '''Postihy za porušení ubytovacího øádu SUZ nebo jiného pøedpisu SH probíhá v následujících bodech:<br>'''
+   1) varování<br>
+   2) ban na základní èlenství v klubu SH<br>
+   3) ádost o podmíneèné vylouèení z koleje SUZ<br>
+
+'''Poštovní adresa na Blok 6''' - Strahov/Blok 6/Pokoj XXX, Vaníèkova 7, 160 17 Praha 6
+
+Vımìna prádla probíhá bìhem akademického roku kadé dva tıdny, pokud nestíháš nech prádlo s kolejenkou na vrátnici, bude ti vymìnìno.
+
+<table bgcolor="#82d0ff" >
+<tr><td>[http://is.sh.cvut.cz Informaèní systém SH]</td><td>Osobní údaje, údaje o síti, kontakt na registrátory a aktivní lidi na bloku</td></tr>
+<tr><td>[http://support.sh.cvut.cz Support SH]</td><td>aktuální poèasí na Strahovì (meteostanice na bloku 4), spoje z/na Strahov</td></tr>
+<tr><td>[http://su.cvut.cz/ Studentská unie ÈVUT]</td><td>stránky Studentské unie</td></tr>
+<tr><td>[http://www.suz.cvut.cz/koleje/informace-a-dokumenty SUZ dokumenty]</td><td>dokumenty SUZ, ádosti, formuláøe</td></tr>
+<tr><td>[http://www.suz.cvut.cz/menzy/menza-strahov Menza Strahov]</td><td>Menza Strahov, jídelníèek</td></tr>
+
+</table>
+
+== '''Informace pro nováèky na bloku 6''' ==
+
+Pøehled informací pro nováèky je pøehlednì zpracovanı na stránce [[http://wiki.siliconhill.cz/Novacek http://wiki.siliconhill.cz/Novacek]].<br>
+Síové problémy mùete poslat na email [mailto:admin6@sh.cvut.cz admin6@sh.cvut.cz]. Zpráva bude doruèena všem registrátorùm a síovému adminovi.
+Nìkteré dùleité body je moné dohledat níe.
+
+=== Postup pro pøipojení k internetu ===
+
+1) Vyplnit pøedregistraèní online formuláø - [https://is.sh.cvut.cz/pre_users/new Odkaz na pøedregistraci] <br>
+2) Vyplnit a podepsat ádost o pøijetí èlena do Studentské unie, ÈVUT (papírovı formuláø - k dostání u registrátorù)<br>
+3) Vzít s sebou zaøízení, která chcete pøipojit k internetu 3x WiFi a 1x kabel (notebook, mobil, tablet, ...) <br>
+4) Nezapomenout studentskou kartu (ISIC, ÈVUT) nebo obèanskı prùkaz!
+
+=== Pravidla vyuití sítì ===
+
+Na pokojích nejsou povoleny vlastní pøístupové body ani jiná síová zaøízení (routery, switche, atd.) <br>
+Sdílení internetu kamarádovi nebo spolubydlícímu, kterı si za pøipojení k internetu neplatí není dovoleno.<br>
+Je zakázáno stahovat nebo sdílet nelegální software zejména pomocí '''torrentù'''.<br>
+Pokud i pøesto chcete pokoušet automatickı rozpoznávací systém, pøeètìte si také [[sazebník_trestù]] na klubové Wiki.
+
+=== Nastavení zaøízení pro vyuití WiFi ===
+Po registraci si zjistìte, co si musíte nastavit na [[Wifi]].<br>
+Doporuèení je vyuívat 5 GHz, pokud to vaše síová karta podporuje.<br>
+Blok je kompletnì pokrytı bezdrátovou technologií Aruba.<br>
+Pøípadné problémy s WiFi hlaste vèetnì èasu problému na [mailto:admin6@sh.cvut.cz admin6@sh.cvut.cz]
+
+=== Registrace nového zaøízení do sítì ===
+Pro registraci nového zaøízení do sítì je nutné osobnì navštívit registrátora a zaøízení vzít s sebou.<br>
+Nebudou pøipojena ádná zaøízení, o která nás budete ádat na emailu nebo na Facebooku.<br>
+Pøed pøíchodem za registrátorem si zjistìte, jaká je MAC adresa WiFi karty a kabelového pøipojení.<br>
+<br>
+[[soubor:how_to_mac.png|400px]]
+
+=== Vstup do studovny a pøidání karty pro blokové posilovny ===
+Pro umoòìní vstupu do blokové studovny je nutné osobnì navštívit registrátora. <br>
+Pro registraci je nutné mít s sebou ISIC kartu nebo hostovskou kartu (pro studenty jiné školy ne ÈVUT).<br>
+Hostovskou kartu od SUZu je moné vyøídit na recepci bloku 1 (více informací u registrátorù).
+
+=== Stìhování na jinı pokoj ===
+Pro pøestìhování je nutné kontaktovat registrátora osobnì nebo emailem na [mailto:admin6@sh.cvut.cz admin6@sh.cvut.cz].<br>
+Dùleité je znát pokoj, na kterı se stìhujete novì a jméno svého nového spolubydlícího, abychom neodpojili od sítì nesprávného.<br>
+
+== '''Vybavení bloku a zájmové místnosti''' ==
+
+Pro zapùjèení jakéhokoliv zaøízení nebo místnosti je nutné nejprve provést rezervaci a následnì se domluvit se správcem na pøedání klíèe nebo vìci.<br>
+Rezervace je platná a po domluvì se správcem (email, osobnì,...).
+
+===Posilovna===
+'''Umístìní: ''' sklep jih<br>
+'''Správce: ''' Martin Urban (316)<br>
+'''Informace: '''
+* pøidání karty pro ÈVUT èteèky provadìjí registrátoøi (díky ÈVUT systému dochází zdrení a tıden)
+* pøístup do místnosti provádí správce malé posilovny
+* prostor je neustále pod dozorem kamerového systému
+* pøed vstupem do místnosti je povinné si pøeèíst bezpeèností pravidla posilovny, abychom pøedešli monému zakázání vstupu za jejich porušení èi úrazu
+
+----
+
+===Klubovna===
+'''Umístìní: ''' ètvrté-páté mezipatro<br>
+'''Správce: ''' Ondøej Skoøepa (302)<br>
+'''Informace: ''' 
+* Spoleèenská místnost pro události (narozeniny, infoschùzka apod.). 
+* Fotbálek, šipky...
+* Pøi vracení klíèù se pøedpokládá, e místnost bude ve stejném stavu jako byla zapùjèená. 
+* Dodrování pravidel místnosti je nezbytnou souèástí pùjèení
+
+<if88>rezervace/1/142</if88>
+
+----
+
+===Pùjèovna [?323]===
+'''Umístìní: ''' 3. patro jih<br>
+'''Správci: ''' Karel Peclinosvkı (34), Radovan Juráš (326), Jakub Kameniar (240), Martin Holec (502), Slavomír Koár (330), Lenka Farkotová (340), Tomáš Vencovskı (316)<br>
+'''Informace: '''
+* zaøízení ze skladu se pùjèuje oproti kolejence
+* zaøízení se vrací ve stavu, ve kterém bylo zapùjèeno (vyèištìné)
+* je povinnost nahlásit správci jakoukoli závadu na zaøízení 
+* ve skladu najdete náøadí, sportovní vybavení a další materiál
+
+'''(TODO)Seznam vybavení:'''
+
+* Sportovní vybavení:
+** Petanque
+** Badminton set
+** Softball vybavení (baseball pálka, míèky, rukavice, mety)
+* Náøadí
+** Šroubováky (rùzné druhy)
+** Šroubováèky na notebook
+** Vrtaèka
+** Aku-vrtaèka
+** další náøadí (kladivo, štípaèky...)
+** Pilky (rùzné druhy)
+* Jiné
+** Gril
+
+
+----
+
+=== Stolní tenis ===
+'''Umístìní: ''' -1. patro<br>
+'''Správce: ''' vrátnice<br>
+
+----
+
+=== Fotoateliér ===
+'''Umístìní: '''2.mezipatro<br>
+'''Správce místnosti: '''<br>
+'''Informace: ''' <br>
+'''[[http://wiki.siliconhill.cz/Fotoatelier http://wiki.siliconhill.cz/Fotoatelier]].''' <br>
+
+----
+
+=== Modelland ===
+'''Umístìní: '''3. patro jih<br>
+'''Správce místnosti: ''' Simona Strádalová (338)<br>
+'''Informace: ''' <br>
+'''[[http://wiki.siliconhill.cz/Modelland http://wiki.siliconhill.cz/Modelland]].''' <br>
+
+----
+
+===Studovna===
+'''Umístìní: '''1. mezipatro<br>
+'''Správce: ''' vrátnice<br>
+'''Informace: '''
+* pøed vstupem je vaší povinností si pøeèíst a nadále respektovat øád studovny
+
+
+----
+
+=== SHerna B6 ===
+'''Umístìní: '''3. mezipatro<br>
+'''Správce místnosti: ''' Slavomír Koár (330)<br>
+'''Informace: ''' <br>
+'''[https://sherna.siliconhill.cz/ sherna.siliconhill.cz]''' <br>
+
+----
+
+==== Prádelna - praèky [5. patro] ====
+'''Umístìní: '''2. patro<br>
+'''Správce: ''' Barbora Markovova (330)<br>
+'''Informace: 
+* pùjèení klíèe za kolejenku na vrátnici
+* 2 funkèní praèky
+* 30 Kè za hodinu praní, 15 Kè za pùlhodinu (= prací programy do 30 minut)
+
+----
+
+== ''' Na bloku 6 pùsobili '''==
+{| style="width:100%;"
+|- style="background: #F0C76D;"
+||'''Zástupci bloku'''||'''Admini'''||'''Registrátoøi/Televizoøi'''|| '''Správcové''' ||'''Hospodáøky'''
+|- style="background: #EBFFB7" valign="top"
+||
+:* 2017 - 
+::*  Marko Šidlovskı (Marko)
+:* 2015 -  2016
+::*  [[Luboš Vinaø]] (Luboš)
+:* 2013 -  2014
+::*  [[Slavomír Koár]] (Slavo)
+:* 2011 -  2012
+::*  [[Kateøina Hašlarová]] (Kathy)
+:* 2010 -  2011
+::*  [[Vacek Jakub]] (h4wk3y)
+:* 2008 -  2010
+::*  [[Póczoš Peter]] (Poci)
+:* 2006 -  2008
+::*  Petra Bielèíková (Daphne)
+:* 2005 - 2006
+::* [[Igliar Radovan | Radovan Igliar]] (Proteo)
+:* 2002 - 2004
+::* Josef Jaroš, Vladimir Horin	
+:* 2000   - 2002
+::* Vladimír Dubskı
+:* 1999   - 2000
+::* Miloš Dedecek
+:* 1998   - 1999
+::* J. Novák		
+||
+:* Tibor Tribus [2018-]
+:* [[Slavomír Koár]] [2016-2017]
+:* Vojtìch Dvoøák [2014-2015]
+:* Jan Wimmer [2014]
+:* Karel Vencovskı [2013]
+:* Václav Mach [2012-2013]
+:* [[Póczoš Peter]] (Poci) [2009-2012]
+:* Josef Venzhöffer (Pepajz) [2007-2008]
+:* Vít Heøman [2004-2006]
+:* Ondøej Petr
+:* Marcel Nejezchleb
+:* [[Igliar Radovan | Radovan Igliar ]]
+:* Vojtìch Šobaò
+:* Karel Kozlovkskı
+:* Ladislav Dokulil
+:* Pavel Dobiáš
+:* Josef Jaroš
+:* Vladimír Dubskı
+:* Miloš Dedecek
+:* J.Novák
+||
+:* Michal Bambuch
+:* Vojtìch Dušátko
+:* Tomáš Kasl
+:* Natálie Gabrielová
+:* Tibor Tribus
+:* David Zollpriester
+:* Juraj Hrenák
+:* Zuzana Trnovská
+:* Tomáš Suchomel
+:* Marko Šidlovskı
+:* Vojtìch Dvoøák
+:* Jan Wimmer
+:* Jakub Kameniar
+:* Vít Diviš
+:* Kateøina Èervinková
+:* Luboš Vinaø
+:* Karel Vencovskı
+:* Jakub Macháèek
+:* Martin Èervenka
+:* Michal Líska
+:* Slavomír Koár
+:* Pavol Šveda
+:* Jirka Peèonka
+:* Pavel Boèek
+:* Ernest Pintér (Erni)
+:* Jakub Motlík (Ozi)
+:* Martin Sivok
+:* Roman Kuèírek (Kuca)
+:* Zbynìk Špaèek
+:* Tomáš Beránek (Ofecka)
+:* Petra Bielèíková
+:* Ondøej Šos
+:* Ondøej Jùza
+:* Vojtìch Zbranìk
+:* Daniel Slezák
+:* Miroslav Sázovskı
+:* Radek David
+:* Petr Sedlák
+:* Radek Dvoøák
+:* Silvia Èilíková
+:* Dušan Talíø
+:* Norbert Laposa
+:* Alexandr Pánek
+:* Pavel Loupal
+:* Hynek Èernı
+:* Jaroslav Horkı
+:* Martin Jakubec
+||
+:* Alena Sedláèková  (kolarna)
+:* Martin Korèák (kolarna)
+:* Lenka Farkotová (pùjèovna)
+:* Radovan Juráš (pùjèovna)
+:* Tomáš Vencovskı (pùjèovna)
+:* Martin Holec (pùjèovna)
+:* Martin Urban (posilka)
+:* Tomáš Suchomel (pùjèovna)
+:* Marko Šidlovskı (pùjèovna)
+:* Karel Peclinovskı (pùjèovna)
+:* Jakub Kameniar (pùjèovna)
+:* Vít Diviš (pùjèovna)
+:* Václav Socha (pùjèovna)
+:* Štìpán Køivanec (posilka)
+:* Angelika Prùchová (pùjèovna)
+:* Kateøina Èervinková (pùjèovna)
+:* Angelika Pruchová	(pùjèovna)
+:* Slavomír Koár (pùjèovna)
+:* Alexandra Sopoligová (pùjèovna)
+:* Luboš Vinaø (pùjèovna)
+:* Bohumil Šareš (pùjèovna)
+:* Miroslav Kouba (pùjèovna)
+:* Póczoš Peter (pùjèovna)
+:* Pavel Boèek (pùjèovna)
+:* Pavol Šveda (pùjèovna)
+:* Lucka Miklášová (sklad)
+:* Roman Kuèírek (posilka)
+:* Zbynìk Špaèek (posilka)
+:* Gabriela Styborová (gril)
+:* Miroslav Baloga( kolarna)
+:* Nikola Køenková (sklad)
+||
+:* Jitka Zátková
+:* Martina Krajdlová
+:* Markéta Vlková
+:* Radoslava Jandová
+:* Libuše Vlková
+|-
+|}
+
+
+__notoc__
+{{kolejni bloky}}

@@ -1,0 +1,25 @@
+.faq{
+	font-weight: 300;	
+}
+
+.faq__item{
+	position: relative;
+	padding: 0 2rem; 
+
+	i{
+		color: $danger;
+		position: absolute; 
+		left: -0.5rem; 
+		top: 1rem;
+		font-size: 1.875rem;
+	}
+}
+
+.faq__question{
+	font-weight: 500;
+	font-size: 1.25rem;
+}
+
+.faq__answer{
+	line-height: 1.2;
+}

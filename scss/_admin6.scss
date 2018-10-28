@@ -1,0 +1,16 @@
+#admin6{
+  display: flex;
+  flex-direction: row-reverse;
+
+}
+
+.admin6__img{
+  min-height: 20rem;
+  width: 40rem;
+  background-size: cover;
+  background-image: url('/img/is-screen.jpg');
+}
+
+.admin6__wrapper{
+  flex-grow: 1;
+}
