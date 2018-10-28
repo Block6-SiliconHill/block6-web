@@ -104,7 +104,7 @@ gulp.task('browserSync', function() {
   });
 });
 
-// Dev task
+// Dev tas
 gulp.task('dev', ['css', 'browserSync'], function() {
   gulp.watch('./scss/*.scss', ['css']);
   gulp.watch('./*.html', browserSync.reload);

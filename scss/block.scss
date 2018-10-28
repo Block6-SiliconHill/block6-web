@@ -1,0 +1,193 @@
+$block_width: 80vw;
+$block_height: $block_width / 4.1;
+$side_offset: $block_width * 0.031;
+$room_height: $block_height / 2.62;
+
+$side_width: $block_width + $side_offset;
+$common_width: $block_width * 0.179;
+$stairs_width: $block_width * 0.1;
+
+body{
+  background: #3d0;
+  height: 500vh;
+}
+
+*{
+ -webkit-box-sizing: border-box;
+ -moz-box-sizing: border-box;
+ box-sizing: border-box;
+}
+
+#wrapper{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100vw;
+  height: 100vh;
+
+  padding: 2rem;
+
+}
+
+
+#block{
+
+  margin-top: 20vw;
+  border:1px solid black;
+  position: relative;
+
+  padding-bottom: 12vw;
+  //display: flex;
+  //width: 100vw;
+  //height: 100vh;
+}
+
+
+.block-floor{
+  transform: perspective(50vw) rotateX(45deg);
+  position: relative;
+
+  margin: -16vw auto 0 auto;
+
+  border:2px solid black;
+
+  width: $block_width;
+  height: $block_height;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  background: #ccc;
+
+  &:first-child{
+    margin-top: 0;
+
+
+  }
+
+
+  &.top{
+    margin-top: -20vw;
+  }
+
+  &.bottom{
+    margin-top: 4vw;
+  }
+}
+
+.block-floor-5{
+  z-index: 1005;
+}
+
+.block-floor-4{
+  z-index: 1004;
+}
+
+.block-floor-3{
+  z-index: 1003;
+}
+
+.block-floor-2{
+  z-index: 1002;
+}
+
+.block-floor-1{
+  z-index: 1001;
+}
+
+.block-floor-0{
+  z-index: 1000;
+}
+
+
+.block-side{
+  display: flex;
+  position:relative;
+  width: $side_width;
+  height: $room_height;
+
+
+  //display: flex;
+  flex-direction: row;
+
+  &.block-east{
+    margin: -2px -2px 0 -2px;
+
+    .block-stairs{
+      border-top: 2px solid black;
+      border-bottom: 1px solid black;
+    }
+
+
+
+    .block-room{
+      border-top: 2px solid black;
+      border-bottom: 1px solid black;
+    }
+
+  }
+
+  &.block-west{
+    margin: 0 -2px -2px calc(-2px - #{$side_offset});
+
+    .block-stairs{
+      align-self: flex-end;
+      border-top: 1px solid black;
+      border-bottom: 2px solid black;
+    }
+
+    .block-room{
+      border-top: 1px solid black;
+      border-bottom: 2px solid black;
+    }
+  }
+}
+
+
+.block-common{
+  width: $common_width;
+  height: 100%;
+  background: white;
+  border:2px solid black;
+}
+
+.block-stairs{
+  width: $stairs_width;
+  height: 60%;
+}
+
+.block-rooms{
+  flex:1;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.block-room{
+  flex:1;
+  position: relative;
+  width: auto;
+  background-color: #fff;
+
+  height: 100%;
+
+  &:nth-child(odd){
+    border-left: 1px solid black;
+  }
+
+  &:nth-child(even){
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+  }
+
+  &:first-child{
+    border-left: 2px solid black;
+  }
+
+  &:last-child{
+    border-right: 2px solid black;
+  }
+
+}
